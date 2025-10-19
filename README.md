@@ -1,5 +1,3 @@
-# Task-2a-Implement-conditional-control-and-looping-statements
-To implement conditional , control and looping statements using python program
 score =int(input("Enter the score:"))
 if score>=90:
     print("The Grade is A")
